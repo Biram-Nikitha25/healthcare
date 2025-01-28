@@ -1,8 +1,10 @@
-# healthcare
-A user-friendly healthcare website that helps people identify possible diseases through a simple question-based diagnosis while offering over-the-counter medicine suggestions and learning from feedback to improve over time.
-
 # Hospital Management System
-healthcare using MySQL, Php and Bootstrap
+Hospital Management System using MySQL, Php and Bootstrap
+
+
+Video Demo : [Hospital Management System - Youtube](https://www.youtube.com/watch?v=W2XGSM5i9P8)
+
+Live Demo : [Hospital Management System - 000webhost by Kishan](https://kishan0725.000webhostapp.com)
 
 ## Need to work on:
 
@@ -53,7 +55,7 @@ healthcare using MySQL, Php and Bootstrap
 <p align="center"><img src="https://user-images.githubusercontent.com/36665975/59350977-fcc68900-8d3a-11e9-9450-e5c478497caa.png"></img></p>
 
 ## GETTING INTO THE PROJECT:
-Healthcare in php and mysql. This system has a ‘Home’ page from where the patient, doctor & administrator can login into their accounts by toggling the tabs accordingly. Fig 1.1 shows the ‘Home’ page of our project.
+Hospital Management System in php and mysql. This system has a ‘Home’ page from where the patient, doctor & administrator can login into their accounts by toggling the tabs accordingly. Fig 1.1 shows the ‘Home’ page of our project.
 
 ![image](https://user-images.githubusercontent.com/36665975/66569676-ad2d8800-eb89-11e9-94e5-ea407622a1fe.png)
 
@@ -197,6 +199,11 @@ This module allows admin to perform five major operations:
 &nbsp; &nbsp; &nbsp; Admin can also delete the doctors from the system. This let admin to have more control over the system.
 
 ![image](https://user-images.githubusercontent.com/36665975/75170650-6d3dfa80-5750-11ea-8f05-455c7d704217.png)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=kishan0725/Hospital-Management-System&type=Timeline)](https://star-history.com/#kishan0725/Hospital-Management-System&Timeline)
+  
 
 
 
